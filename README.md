@@ -5,7 +5,7 @@
     *   Team: TAP2J
     *   Course Name: CIS 422
     *   Assignment: Project 2
-    *   Description: ReadME file of our proejct
+    *   Description: ReadME file of our project
     *   Date: 11 March 2021
     *   Last Created by: Theodore Yun
     *   Edit History: 11 Mar 2021 - Theodore Yun
